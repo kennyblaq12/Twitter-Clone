@@ -1,0 +1,223 @@
+.twitter-logo > img {
+  height: 30px;
+  width: 30px;
+  margin-top: 5px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.icon-name {
+  display: flex;
+  cursor: pointer;
+  padding-left: 20px;
+}
+.icon-name > img {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  object-fit: cover;
+  margin-top: 6px;
+}
+.icon-name > p {
+  margin-top: 5px;
+  margin-left: 20px;
+  font-family: "Poor Story", system-ui;
+}
+.contain {
+  margin-top: 20px;
+  display: block;
+  cursor: pointer;
+}
+.all {
+  width: 20%;
+  height: 100%;
+  border-right: 2px solid grey;
+  background-color: whitesmoke;
+  margin: -4px;
+  border-radius: 12px;
+  cursor: pointer;
+  position: fixed;
+}
+@import url("https://fonts.googleapis.com/css2?family=Poor+Story&family=Single+Day&display=swap");
+.btn > button {
+  margin-top: 5px;
+  padding: 13px 72px;
+  margin-left: 20px;
+  background-color: rgb(30, 120, 165);
+  border: none;
+  border-radius: 52px;
+  cursor: pointer;
+  color: white;
+}
+.btns > button {
+  margin-top: 5px;
+  padding: 13px 72px;
+  margin-left: 40px;
+  background-color: rgb(30, 120, 165);
+  border: none;
+  border-radius: 52px;
+  color: white;
+  cursor: pointer;
+}
+.k-icon > img {
+  height: 40px;
+  width: 40px;
+  margin-left: 19px;
+  margin-top: 15px;
+  cursor: pointer;
+}
+.flex {
+  display: flex;
+  margin-top: 20px;
+  cursor: pointer;
+}
+.ppp > p {
+  font-size: 13px;
+  margin-top: 21px;
+  margin-left: 5px;
+  cursor: pointer;
+}
+.flex2 {
+  display: flex;
+  justify-content: space-around;
+  border-right: 2px solid gray;
+
+  margin-top: -10px;
+  margin-left: 2px;
+}
+.mean {
+  display: flex;
+}
+
+.c2 {
+  width: 50%;
+  height: 100%;
+  margin-left: 239px;
+}
+.menu {
+  display: flex;
+}
+.menu > img {
+  width: 20px;
+  height: 20px;
+  padding-left: 9px;
+  margin-top: 8px;
+  cursor: pointer;
+}
+.me {
+  display: flex;
+  justify-content: space-around;
+
+  border-right: 2px solid gray;
+  border-top: 2px solid gray;
+  padding: 20px;
+  margin-left: 2px;
+}
+.input > input {
+  width: 400px;
+  height: 35px;
+  border-radius: 12px;
+}
+.align > p {
+  font-size: 12px;
+  text-align: center;
+  color: rgb(21, 125, 167);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.align {
+  border-top: 2px solid gray;
+  border-bottom: 2px solid gray;
+  border-right: 2px solid gray;
+  margin-left: 2px;
+}
+.spread {
+  margin-top: -4px;
+  display: flex;
+  border-bottom: 2px solid gray;
+  border-right: 2px solid gray;
+  margin-left: 2px;
+}
+.spread2 {
+  margin-top: -4px;
+  display: flex;
+  /* border-bottom: 2px solid gray; */
+  border-right: 2px solid gray;
+  margin-left: 2px;
+}
+
+.s > img {
+  margin-top: 15px;
+  margin-left: 20px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.p > p {
+  margin-left: 20px;
+  margin-top: 22px;
+  font-size: 12px;
+}
+.six > img {
+  width: 50%;
+  height: 75%;
+  margin-left: 160px;
+  cursor: pointer;
+}
+.six {
+  border-bottom: 2px solid gray;
+  border-right: 2px solid gray;
+  margin-left: 2px;
+}
+.in > input {
+  width: 300px;
+  height: 30px;
+  margin-left: 30px;
+  background-color: rgb(80, 80, 114);
+  border-radius: 18px;
+  border: none;
+  color: #ffff;
+  outline: none;
+  padding-left: 20px;
+}
+.hmmm {
+  margin-top: 20px;
+  background-color: rgb(80, 80, 114);
+  padding: 10px;
+  border-radius: 18px;
+  width: 300px;
+  height: 130px;
+  margin-left: 30px;
+}
+.hmmm > h4 {
+  margin-left: 6px;
+  margin-top: -4px;
+  font-size: 28px;
+  cursor: pointer;
+}
+.hmmm > p {
+  font-size: 13px;
+  margin-top: -34px;
+  cursor: pointer;
+  margin-left: 6px;
+}
+.happy {
+  margin-top: 20px;
+  background-color: rgb(80, 80, 114);
+  padding: 10px;
+  border-radius: 18px;
+  width: 300px;
+  height: 1030px;
+  margin-left: 30px;
+}
+.lastest > p {
+  font-size: 13px;
+  cursor: pointer;
+}
+.jjj {
+  display: flex;
+  justify-content: space-between;
+}
+.end {
+  border-bottom: 2px solid gray;
+}
